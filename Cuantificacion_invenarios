@@ -1,2 +1,4 @@
 este proyecto toma un libro de excel con varias hojas, las recorre crea un dataframe de cada una de ellas y las agrupa por 'bodegas'.
+Al final exporta dos archivos de excel uno con el resumen del inventario y otro con el detalle.
 This project takes an excel file and does loop into its sheets, create a dataframe from each and finaly compile them in 'bodegas'
+Finally saves two files one with the resume and other with de details.
